@@ -1,0 +1,21 @@
+#caja1 {
+  padding: 10px;
+  border: solid red 5px;
+  float: left;
+  width: 33.33%;
+  height: 50px;
+}
+#caja2 {
+  padding: 10px;
+  border: solid rgb(102, 255, 0) 5px;
+  float: left;
+  width: 33.33%;
+  height: 50px;
+}
+#caja3 {
+  padding: 10px;
+  border: solid rgb(0, 255, 200) 5px;
+  float: left;
+  width: 33.33%;
+  height: 50px;
+}
